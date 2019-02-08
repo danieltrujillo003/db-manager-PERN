@@ -1,0 +1,2 @@
+- pool excecutes twice on GET request
+- what is pool? can i erase pool.query?
